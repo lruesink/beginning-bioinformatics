@@ -1,6 +1,11 @@
  #AI Use Log
 - Tool/model & version:
+-  Gemini 2.5 Flash, integrated with Colab
 - What I asked for:
+-  Help on some problems, if I was having trouble fixing what was wriong with my own code.
 - Snippet of prompt(s):
+-  "I'm receiving {This error} when I attempt to run my code, what are some possible things going wrong, and how could I fix the issue. Please explain the issue and how the solution will fix the problem so I can understand.
 - What I changed before committing:
+-  Small errors in my code. Nothing was completely rewritten by AI. 
 - How I verified correctness (tests, sample data):
+-  The Rosalind problems would tell me if it was correct or not. 
