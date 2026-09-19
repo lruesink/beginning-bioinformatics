@@ -2,10 +2,10 @@
 - Tool/model & version:
 -  Gemini 2.5 Flash, integrated with Colab
 - What I asked for:
--  Help on some problems, if I was having trouble fixing what was wriong with my own code. I tired to consult with some classmates if I was having issues with the pre-written code in the notebook first before turning to AI.
+-  Assistance with comparing MUSCLE to MAFFT, and strategies for finding differences.
 - Snippet of prompt(s):
--  "I'm receiving {This error} when I attempt to run my code, what are some possible things going wrong, and how could I fix the issue. Please explain the issue and how the solution will fix the problem so I can understand.
+-  "What would be the best way to compare alignment results from MUSCLE and MAAFT" "I'm receiving an error in my code, what could be the issue?"
 - What I changed before committing:
--  Small errors in my code. Nothing was completely rewritten by AI. 
+-  Small errors in my code, added my own script comparing the two methods. Nothing was completely rewritten by AI. 
 - How I verified correctness (tests, sample data):
--  The Rosalind problems would tell me if it was correct or not. 
+-  I compared the outputs to the provided Colab script and the NCBI viewer.
