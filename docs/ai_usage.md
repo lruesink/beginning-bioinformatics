@@ -1,11 +1,11 @@
  #AI Use Log
 - Tool/model & version:
--  Gemini 2.5 Flash, integrated with Colab
+-  No AI was used for this assignment. All code and instructions were provided in the Colab Notebooks on Canvas
 - What I asked for:
--  Assistance with comparing MUSCLE to MAFFT, and strategies for finding differences.
+-  N/A
 - Snippet of prompt(s):
--  "What would be the best way to compare alignment results from MUSCLE and MAAFT" "I'm receiving an error in my code, what could be the issue?"
+- N/A
 - What I changed before committing:
--  Small errors in my code, added my own script comparing the two methods. Nothing was completely rewritten by AI. 
+- N/A
 - How I verified correctness (tests, sample data):
--  I compared the outputs to the provided Colab script and the NCBI viewer.
+- N/A
