@@ -1,11 +1,11 @@
  #AI Use Log
 - Tool/model & version:
--  No AI was used for this assignment. All code and instructions were provided in the Colab Notebooks on Canvas
+-  Gemini 3.5 Flash
 - What I asked for:
--  N/A
+-  Help on some questions, and adding code for the final AI use task.
 - Snippet of prompt(s):
-- N/A
+- "Explain to me how to read this plot" or "Write me code to increase the number of clusters"
 - What I changed before committing:
-- N/A
+- Exact AI answers, everything is in my own words.
 - How I verified correctness (tests, sample data):
-- N/A
+- Using the sample code provided in the notebooks
