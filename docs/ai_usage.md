@@ -1,4 +1,4 @@
- #AI Use Log for FishyFinder
+# AI Use Log for FishyFinder
 - Tool/model & version:
 -  Gemini 3.5 Flash-Lite
 - What I asked for:
