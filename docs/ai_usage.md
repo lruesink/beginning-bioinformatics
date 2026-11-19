@@ -1,11 +1,11 @@
- #AI Use Log
+ #AI Use Log for FishyFinder
 - Tool/model & version:
--  Gemini 3.5 Flash
+-  Gemini 3.5 Flash-Lite
 - What I asked for:
--  Help on some questions, and adding code for the final AI use task.
+-  Code blocks for GUI development and troubleshooting help
 - Snippet of prompt(s):
-- "Explain to me how to read this plot" or "Write me code to increase the number of clusters"
+- "I'm getting an error for this line of code. Where is the mistake" or How can I edit this code block to seperate the zone buttons into a different sidebar"
 - What I changed before committing:
-- Exact AI answers, everything is in my own words.
+- Any functionality issues with AI generated code
 - How I verified correctness (tests, sample data):
-- Using the sample code provided in the notebooks
+- Using sample videos that I had previously watched and analyzed.
